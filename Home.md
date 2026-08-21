@@ -1,6 +1,6 @@
 layout: page
 title: "Home"
-permalink: /Home
+permalink: /home
 
 <--
 **NonEuclideanWizardry/NonEuclideanWizardry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
